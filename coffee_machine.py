@@ -1,3 +1,6 @@
+# My first ever project using OOP.  I know that this is still messy and I'm planning to refactor  this in the near
+# future.
+
 class CoffeeMachine:
 
     def __init__(self, water, milk, coffee, cups, money):
